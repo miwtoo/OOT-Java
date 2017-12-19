@@ -13,7 +13,9 @@
 - Week 9 String and Character
 - Week 10 Exception Handling
 
+------------------------------------------
 
-- MidTerm 30%
-- Final 40%
-- Lab 30%
+
+* MidTerm 30%
+* Final 40%
+* Lab 30%
