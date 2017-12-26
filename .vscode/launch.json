@@ -1,0 +1,55 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArmStrong",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "comeng.cal.ArmStrong",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Fibonacci",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "comeng.cal.Fibonacci",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-power",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "comeng.cal.power",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-InputConsole2",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "comeng.sut.InputConsole2",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Attach)",
+            "request": "attach",
+            "hostName": "localhost",
+            "port": 0
+        }
+    ]
+}
