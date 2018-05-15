@@ -1,4 +1,5 @@
-1.
+# 1.
+```Java
 MobilePhone m1 = new MobilePhone();
 MobilePhone m2 = new MonilePhone("SAMSUNG");
 Student s = new Student("JOHN");
@@ -9,26 +10,33 @@ m1.setSerialNumber(51454331);
 m2.setSerialNumber(59942571);
 
 
-System.out.println(m1.getOwner().getName()+" is Own "+m1.getBrand()); //¡‘·πË„®¡—π¬“«®”¡‘‰¥È
-m1.changeSerialToMax(); // „πchangeSerialToMax ‡Õ“§Ë“ Serial Number ¡“‡√’¬ß„À¡Ë„ÀÈ‰¥È§Ë“∑’Ë¡“° ÿ¥ ·≈È«°Áª√‘Èπ  System.out.println(Brand+" has serial number is "+SerialNumber+" has change serial number to max is "+ maxserialnumber);
+System.out.println(m1.getOwner().getName()+" is Own "+m1.getBrand()); //‡∏°‡∏¥‡πÅ‡∏ô‡πà‡πÉ‡∏à‡∏°‡∏±‡∏ô‡∏¢‡∏≤‡∏ß‡∏à‡∏≥‡∏°‡∏¥‡πÑ‡∏î‡πâ
+m1.changeSerialToMax(); // ‡πÉ‡∏ôchangeSerialToMax ‡πÄ‡∏≠‡∏≤‡∏Ñ‡πà‡∏≤ Serial Number ‡∏°‡∏≤‡πÄ‡∏£‡∏µ‡∏¢‡∏á‡πÉ‡∏´‡∏°‡πà‡πÉ‡∏´‡πâ‡πÑ‡∏î‡πâ‡∏Ñ‡πà‡∏≤‡∏ó‡∏µ‡πà‡∏°‡∏≤‡∏Å‡∏™‡∏∏‡∏î ‡πÅ‡∏•‡πâ‡∏ß‡∏Å‡πá‡∏õ‡∏£‡∏¥‡πâ‡∏ô  System.out.println(Brand+" has serial number is "+SerialNumber+" has change serial number to max is "+ maxserialnumber);
 m2.changeSerialToMax();
+```
 
+‡∏£‡∏±‡∏ô‡∏à‡∏≥‡πÑ‡∏°‡πà‡πÑ‡∏î‡πâ ‡∏õ‡∏•.‡πÇ‡∏à‡∏ó‡∏¢‡πå‡∏Ç‡πâ‡∏≤‡∏á‡∏ö‡∏ô‡∏≠‡∏≤‡∏à‡∏°‡∏¥‡∏ï‡∏£‡∏á‡∏ï‡∏≤‡∏°‡∏Ç‡∏≠‡∏á ‡∏≠ ‡πÄ‡∏õ‡πä‡πÜ ‡πÅ‡∏ï‡πà‡∏Å‡πá‡πÉ‡∏Å‡∏•‡πâ‡πÜ(‡πÄ‡∏â‡∏û‡∏≤‡∏∞‡∏Ç‡πâ‡∏≠‡∏ô‡∏µ‡πâ)
 
-√—π®”‰¡Ë‰¥È ª≈.‚®∑¬Ï¢È“ß∫πÕ“®¡‘µ√ßµ“¡¢Õß Õ ‡ªÍÊ ·µË°Á„°≈ÈÊ(‡©æ“–¢ÈÕπ’È)
-2.
+--------------------------------------------------------------------
+
+# 2.
+```Java
 Robot r = new Robot("x20");
 
  int[] x = {3,45,3,25,9,25,9,6,10};
 
 r.DuplicateNumber(x);
 r.sumUniqueNumber(x);
-
-RUN ---------
+```
+RUN
+```
 Duplicate Number is 3 25 9
 Sum of unique number is 61
+```
+-----------------------------------------------------------------------
 
-
-3.Main
+# 3.
+```Java
 line(1111);
 line(32);
 line(8);
@@ -38,7 +46,11 @@ line(8,'*');
 line(1111,'#',222);
 line(32,'@',233);
 line(8,'*',51);
-Run-------
+```
+
+Run
+
+```
 ====
 =====
 ========
@@ -50,3 +62,4 @@ Run-------
 ####======
 @@@@@========
 ********======
+```
